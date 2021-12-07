@@ -27,7 +27,7 @@ burger.addEventListener("click", burgerOnOff)
 // })
 
 const sectionAbout = document.querySelector(".about")
-const aboutImg = document.querySeletor(".about-img")
+const aboutImg = document.querySelector(".about-img")
 const aboutElement = document.querySelectorAll(".about-element")
 
 window.addEventListener("scroll", () => {
